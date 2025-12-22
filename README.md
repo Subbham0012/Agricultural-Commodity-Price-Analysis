@@ -41,3 +41,9 @@ Key insights include:
 - High volatility markets
 
 ## 📁 Repository Structure
+
+## ✅ Conclusion
+This project demonstrates an end-to-end data analytics workflow from data
+cleaning to business insight generation using Python and Power BI.
+
+
